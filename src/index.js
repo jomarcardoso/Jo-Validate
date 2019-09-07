@@ -1,0 +1,14 @@
+export { isNumber } from './is-number';
+export { isFunction } from './is-function';
+export { isString } from './is-string';
+export { isEmptyString } from './is-emptystring';
+export { isArray } from './is-array';
+export { isPhone } from './is-phone'
+export { isCep } from './is-cep';
+export { isCpf } from './is-cpf';
+export { isDate } from './is-date';
+export { isDateAbove } from './is-dateabove';
+export { isDateBelow } from './is-datebelow';
+export { isDateBetween } from './is-datebetween';
+export { isEmail } from './is-email';
+export { isImageFile } from './is-imgfile';
