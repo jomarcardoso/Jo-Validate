@@ -2,7 +2,7 @@
   "name": "jo-validate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/",
   "scripts": {
     "start": "webpack -w",
     "build": "cross-env NODE_ENV=production webpack"
