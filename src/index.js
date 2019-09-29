@@ -12,3 +12,4 @@ export { isDateBelow } from './is-datebelow';
 export { isDateBetween } from './is-datebetween';
 export { isEmail } from './is-email';
 export { isImageFile } from './is-imgfile';
+export { isOverflown } from './is-overflown';
