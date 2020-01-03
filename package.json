@@ -1,8 +1,8 @@
 {
   "name": "jo-validate",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "",
-  "main": "./dist/",
+  "main": "./src/index.js",
   "scripts": {
     "start": "webpack -w",
     "build": "cross-env NODE_ENV=production webpack"
@@ -22,12 +22,10 @@
     "@typescript-eslint/parser": "^2.1.0",
     "cross-env": "^5.2.1",
     "eslint": "^6.3.0",
+    "eslint-loader": "^3.0.0",
     "ts-loader": "^6.0.4",
     "typescript": "^3.6.2",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.8"
-  },
-  "dependencies": {
-    "eslint-loader": "^3.0.0"
   }
 }
